@@ -9,6 +9,8 @@ Aevo implements the guidelines of the [MIT License](https://opensource.org/licen
 | ------ | ------ |
 | Max Coins | 425M AEVO |
 | Block Time | 120 seconds |
+| Main Port | 13371 |
+| RPC Port | 13370 |
 | Masternode Collateral | 42,500 AEVO |
 | Algorithm | Scrypt |
 | PoS Maturity | 12 hours |
